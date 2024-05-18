@@ -1,0 +1,213 @@
+body {
+    font-family: 'Satoshi', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.headsec0 {
+    display: none;
+}
+
+.headsec1 h1 {
+    color: rgb(34, 32, 46);
+}
+
+.hdsec0 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 26px;
+    margin-right: 26px;
+}
+
+.hdsec2 i {
+    margin-left: 20px;
+}
+
+.hdsec1 h1 {
+    font-size: 28px;
+}
+
+
+.head2sec1 ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.head2sec1 li {
+    margin-left: 50px;
+    color: rgb(114, 110, 141);
+    font-size: 17px;
+}
+
+.maindiv2 {
+    display: none;
+}
+
+.mai {
+    display: none;
+}
+
+.main4div0 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+
+.main4div1 {
+    display: flex;
+    align-items: center;
+    margin-left: 27px;
+}
+
+.main4div6 {
+    display: flex;
+    align-items: center;
+    margin-right: 27px;
+}
+
+.main4div0 i {
+    margin-left: 8px;
+}
+
+.main5div1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main5div6 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main6div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main5div1 {
+    margin-top: 48px;
+}
+
+.main5div6 {
+    margin-top: 48px;
+}
+
+.main6div {
+    margin-top: 48px;
+}
+
+.main5div0 h2 {
+    color: rgb(42, 37, 75);
+}
+
+.main5div0 p {
+    color: rgb(42, 37, 75);
+    font-size: 19px;
+}
+
+.main6div4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.main6div4 button {
+    background-color: rgb(249, 249, 249);
+    color: rgb(42, 37, 75);
+    font-size: 16px;
+    border: 0px;
+    padding: 17px;
+    width: 14%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sd6 {
+    display: none;
+}
+
+.sec7div10 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec7div7 {
+    background-color: rgb(42, 37, 75);
+}
+
+.sec7div8 {
+    margin-top: 180px;
+}
+
+.sec7div7 {
+    color: white;
+    margin-left: -8px;
+}
+
+.sec7div7 li {
+   list-style: none;
+}
+
+.sec7div14 p {
+    display: flex;
+    justify-content: center;
+}
+
+.sec7div8 li {
+    margin-left: -38px;
+    margin-top: 10px;
+}
+
+.sec7div14 input {
+    padding: 9px;
+    width: 177px;
+    border: 0px;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.sec7div14 ::placeholder {
+    color: white;
+}
+
+.sec7div14 button {
+    padding: 9px;
+    width: 96px;
+    border: 0px;
+    color: rgb(42, 37, 75);
+}
+
+.sec7div15 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.sec7div16 i {
+    margin-right: 18px;
+    font-size: 18px;
+}
+
+.sec7div7 hr {
+    width: 92%;
+}
+
+.sec7div15 p {
+    margin-left: -291px;
+}
+
+.sec7div16 {
+    margin-right: -298px;
+}
+
+.main3sec {
+    height: 880px;
+}
+
+.sec7div7 {
+    margin-top: -131px;
+}
